@@ -1,3 +1,11 @@
+//
+//  ARUSDZView.swift
+//  USDZ-AR-viewer
+//
+//  Created by Remo on 30.08.2025.
+//
+
+
 import SwiftUI
 import RealityKit
 import ARKit

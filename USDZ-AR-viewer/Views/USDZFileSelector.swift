@@ -1,4 +1,13 @@
+//
+//  USDZFileSelector.swift
+//  USDZ-AR-viewer
+//
+//  Created by Remo on 30.08.2025.
+//
+
+
 import SwiftUI
+import UniformTypeIdentifiers
 
 struct USDZFileSelector: View {
     @State private var selectedFileURL: URL? = nil
